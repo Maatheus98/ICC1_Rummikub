@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1530400604 source:e:\programação\lab. icc\rummikub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Funções.h"
+	"Menus.h"
+
+1530403060 e:\programação\lab. icc\rummikub\funções.h
+
+1530332988 e:\programação\lab. icc\rummikub\menus.h
+
+1530482294 source:c:\users\10684614\downloads\rummikub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Funções.h"
+	"Menus.h"
+
+1530539677 c:\users\10684614\downloads\rummikub\funções.h
+
+1530537087 c:\users\10684614\downloads\rummikub\menus.h
+
+1530750602 source:c:\users\arnon\desktop\nova pasta\rummikub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Funções.h"
+	"Menus.h"
+
+1530750758 c:\users\arnon\desktop\nova pasta\rummikub\funções.h
+
+1530750591 c:\users\arnon\desktop\nova pasta\rummikub\menus.h
+
+1530755042 source:c:\users\lu\desktop\rummikub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"Funções.h"
+	"Menus.h"
+
+1530737192 c:\users\lu\desktop\rummikub\funções.h
+
+1530737196 c:\users\lu\desktop\rummikub\menus.h
+
